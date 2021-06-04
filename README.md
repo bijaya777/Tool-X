@@ -1,8 +1,8 @@
 # Tool-X
 
-[![Build Status](https://img.shields.io/github/forks/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![License](https://img.shields.io/github/license/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
+[![Build Status](https://img.shields.io/github/forks//Tool-X.svg)](https://github.com/anonymous/Tool-X)
+[![Build Status](https://img.shields.io/github/stars/anonymous/Tool-X.svg)](https://github.com/anonymous/Tool-X)
+[![License](https://img.shields.io/github/license/anonymous/Tool-X.svg)](https://github.com/anonymous/Tool-X)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 *Tool-X is a Kali Linux hacking tools installer for Termux and linux system.*
 Tool-X was developed for Termux and linux based systems. Using Tool-X, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
 
-*A similar lightweight and fast tool [onex](https://github.com/rajkumardusad/onex) is available. We can use onex instead of Tool-X*
+*A similar lightweight and fast tool [onex](https://github.com/anonymous/onex) is available. We can use onex instead of Tool-X*
 
 <br>
 <p align="center">
